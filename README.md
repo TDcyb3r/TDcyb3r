@@ -35,7 +35,7 @@ Forensic automation pipeline for memory/disk images: file carving (foremost/bulk
 
 ---
 
-## 🛠️ Tech Stack  
+## Tech Stack  
 **Operating Systems:** Kali Linux, Ubuntu, Windows  
 **Security Tools:** Nmap, Wireshark, TShark, Hydra, Metasploit, Sysmon, ELK, YARA  
 **Languages:** Bash (strong), Python (beginner)  
@@ -43,7 +43,7 @@ Forensic automation pipeline for memory/disk images: file carving (foremost/bulk
 
 ---
 
-## 📫 Contact  
+## Contact  
 **LinkedIn:** https://www.linkedin.com/in/tomer-dery  
 **Email:** deritomer30@gmail.com
 
