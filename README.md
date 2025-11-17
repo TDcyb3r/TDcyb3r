@@ -1,5 +1,5 @@
 # Hi, I'm Tomer 
-Cybersecurity Student | SOC Analyst (Junior) | Linux & Network Security Enthusiast
+cybersecurity and information security graduate | SOC Analyst | Linux & Network Security Enthusiast
 
 ---
 
